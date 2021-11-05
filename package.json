@@ -1,5 +1,5 @@
 {
-  "name": "demoprj-npmpackage",
+  "name": "@demoprj/npmpackage",
   "version": "0.0.1",
   "description": "A demo for node.js npm package",
   "main": "src/index.js",
